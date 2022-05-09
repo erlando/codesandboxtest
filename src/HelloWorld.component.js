@@ -1,3 +1,5 @@
+import { Coomponent } from "react";
+
 export default class HelloWorldComponent extends Component
 {
     constructor(props) {
