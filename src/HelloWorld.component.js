@@ -1,3 +1,5 @@
+import { Component } from "react";
+
 export default class HelloWorldComponent extends React.Component
 {
     constructor(props) {
