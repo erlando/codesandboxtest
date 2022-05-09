@@ -1,4 +1,4 @@
-import { Coomponent } from "react";
+import { Component } from "react";
 
 export default class HelloWorldComponent extends Component
 {
